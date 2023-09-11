@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+<category>
+    <pattern>hi</pattern>
+    <template>Hi. You've reached Strode Experiences.
+
+<ol>
+    <li>
+Press 1 to schedule a call with our executive</li>
+    <li>Press 2 to add a review of your experience.</li>
+    </ol></template>
+</category>
+<category>
+    <pattern>1</pattern>
+    <template>You will soon receive a call from one of our executives. Thankyou
+</template>
+</category>
+<category>
+    <pattern>2
+</pattern>
+    <template>Kindly add your review. Thankyou</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
